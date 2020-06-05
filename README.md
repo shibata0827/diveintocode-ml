@@ -33,7 +33,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint2課題 機械学習スクラッチ線形回帰](https://github.com/shibata0827/diveintocode-ml/blob/master/term1/sprint2/sprint2-work1.ipynb)
 - [Sprint3課題 機械学習スクラッチ ロジスティック回帰](https://github.com/shibata0827/diveintocode-ml/blob/master/term1/sprint3/sprint3-work1.ipynb)
 - [Sprint4課題 機械学習スクラッチ SVM](https://github.com/shibata0827/diveintocode-ml/blob/master/term1/sprint4/sprint4-work1.ipynb)
-- [Sprint5課題 機械学習スクラッチ 決定木](https://github.com/shibata0827/diveintocode-ml/blob/master/term1/sprint5/sprint5-work1.ipynb)
+- [Sprint5課題 機械学習スクラッチ 決定木(深さ指定)](https://github.com/shibata0827/diveintocode-ml/blob/master/term1/sprint5/sprint5-work1.ipynb)
 - [Sprint6課題 機械学習スクラッチ クラスタリング](https://github.com/shibata0827/diveintocode-ml/blob/master/term1/sprint6/sprint6-work1.ipynb)
 - [Sprint7課題 アンサンブル学習](https://github.com/shibata0827/diveintocode-ml/blob/master/term1/sprint7/sprint7-work1.ipynb)
 
@@ -57,5 +57,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 
 
 ## Term3 Engineer Project
-- [Sprint24 グループ課題（途中まで）](https://github.com/ohmorimori/diveintocode-ml/tree/master/diveintocode-term2/sprint/sprint26)
-- [Sprint25 個人課題](https://github.com/y9dai/self_checkout/tree/f13dd4605ea0c716b6f59587c9ce3b5582d3ceb0)
+- [Sprint24 グループ課題（途中まで）](https://github.com/shibata0827/diveintocode-ml/tree/master/team_project)
+- [Sprint25 個人課題](https://github.com/shibata0827/diveintocode-ml/tree/master/personal_project)
+- [Sprint25 参考文献](https://arxiv.org/abs/2004.07629)
+- [Sprint25 参考github](https://github.com/giannislelekas/topdown)
