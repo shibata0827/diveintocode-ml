@@ -1,6 +1,6 @@
-# DIVE INTO CODE機械学習コース
+# DIVE INTO CODE機械学習コース + 卒業後の取り組み
 
-DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
+DIVE INTO CODE機械学習コース課題、卒業後の取り組みを管理するリポジトリです
 
 
 ## Term0 Pre Training
@@ -61,3 +61,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint25 個人課題](https://github.com/shibata0827/diveintocode-ml/tree/master/personal_project)
 - [Sprint25 参考文献](https://arxiv.org/abs/2004.07629)
 - [Sprint25 参考github](https://github.com/giannislelekas/topdown)
+
+## 卒業後の取り組み
+- [kaggle ARC](https://github.com/shibata0827/diveintocode-ml/tree/master/kaggle/Abstraction%20and%20Reasoning%20Challenge)
+- [AtCoder](https://github.com/shibata0827/diveintocode-ml/tree/master/atcoder)
